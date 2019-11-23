@@ -2,8 +2,8 @@
 
 Jazz is a lightweight analytical web server for data-driven applications. It provides data persistence and computation capabilities accessible
 through a REST API. It is meant for solutions that need to rely on fast processing, scalable and reliable open source C and C++ libraries.
-A Jazz server installs in less than a minute and has a startup time of less than a second. It integrates with R, Python or any API capable
-software.
+A Jazz server installs in less than a minute and has a startup time of less than a second. It includes an R package and integrates with any
+http client software.
 
 
 ## History and Objectives

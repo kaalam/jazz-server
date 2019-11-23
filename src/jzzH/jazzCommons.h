@@ -190,7 +190,7 @@ of the perimetral security level established.
 #define BLOCKTYPE_RAW_MIME_PDF	23		///< A PDF file. Mime type: "application/pdf"
 #define BLOCKTYPE_RAW_MIME_PNG	24		///< An image. Mime type: "image/png"
 #define BLOCKTYPE_RAW_MIME_TSV	25		///< A tab separated file of strings, no escapes or quotes. Mime type: "text/tab-separated-values"
-#define BLOCKTYPE_RAW_MIME_TXT	26		///< Any text file. All sources (R, Python, SQL, ...) use this type. Mime type: "text/plain"
+#define BLOCKTYPE_RAW_MIME_TXT	26		///< Any text file. All sources use this type. Mime type: "text/plain"
 #define BLOCKTYPE_RAW_MIME_XAP	27		///< A Windows Phone application. Mime type: "application/x-silverlight-app"
 #define BLOCKTYPE_RAW_MIME_XML	28		///< An XML file. Mime type: "application/xml"
 #define BLOCKTYPE_RAW_MIME_ICO	29		///< An ICO file, aka "image/vnd.microsoft.icon". Mime type: "image/x-icon"
